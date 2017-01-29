@@ -1,2 +1,2 @@
 # PresenceSensor
-Presence Sensor with Arduino, Angular, Node, Mongoose Express
+Presence Sensor with Arduino, Angular, Node, Mongoose, Express
